@@ -1,6 +1,5 @@
-package com.cursor;
+package interfacee;
 
 public interface VolumeMeasurable {
     double getVolume();
-
 }

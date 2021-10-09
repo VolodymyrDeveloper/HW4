@@ -1,6 +1,6 @@
-package Shape3D;
+package HW4.Shape3D;
 
-import com.cursor.Vertices;
+import HW4.cursor.Vertices;
 
 public class Sphere extends SpaceShape {
     private double radius;

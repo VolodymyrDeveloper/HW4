@@ -1,6 +1,6 @@
-package Shape2D;
+package HW4.Shape2D;
 
-import com.cursor.Vertices;
+import HW4.cursor.Vertices;
 
 public class Circle extends PlaneShape {
     private double radius;

@@ -1,4 +1,4 @@
-package com.cursor;
+package HW4.cursor;
 
 import java.util.ArrayList;
 import java.util.List;

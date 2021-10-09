@@ -1,11 +1,11 @@
-package com.cursor;
+package HW4.cursor;
 
-import Shape2D.Circle;
-import Shape2D.Rectangle;
-import Shape2D.Triangle;
-import Shape3D.Cuboid;
-import Shape3D.Sphere;
-import Shape3D.SquarePyramid;
+import HW4.Shape2D.Circle;
+import HW4.Shape2D.Rectangle;
+import HW4.Shape2D.Triangle;
+import HW4.Shape3D.Cuboid;
+import HW4.Shape3D.Sphere;
+import HW4.Shape3D.SquarePyramid;
 
 public class Main {
 

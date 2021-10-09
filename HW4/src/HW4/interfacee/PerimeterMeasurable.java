@@ -1,4 +1,4 @@
-package interfacee;
+package HW4.interfacee;
 
 public interface PerimeterMeasurable {
     double getPerimeter();

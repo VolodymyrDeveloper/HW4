@@ -1,4 +1,4 @@
-package com.cursor;
+package HW4.cursor;
 
 public class Vertices {
 
